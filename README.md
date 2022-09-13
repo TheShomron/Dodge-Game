@@ -10,10 +10,12 @@ and added a twist to it with my favorite childhood series: "Pokemon".
 * You can attack the enemy and score points.
 * Attacks are adjusted according to your chosen character.
 
-![image](https://user-images.githubusercontent.com/108794115/189842150-76705e06-e1ba-4db7-bcb6-858d40622863.png)
+![‏‏צילום מסך (16)](https://user-images.githubusercontent.com/108794115/189846957-b6378d96-3d29-4989-91a7-66841b7c21a9.png)
 
 Hope you enjoy playing this game
 and thank you for being here, I appreciate it 🙏.
+
+
 ⠐⣶⣾⣭⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡄⠀⠄⠀⠀⠀⠀⠀
 ⠀⠹⣿⣿⣧⠈⠙⠳⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠴⢻⣿⣿⣿⢇⠀⠀⠀⠀⠀
 ⠀⠀⠘⢿⣿⡄⠀⠀⠀⠙⢿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠛⠉⠀⠀⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀
