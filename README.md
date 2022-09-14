@@ -1,7 +1,7 @@
 Hello Everyone👋🏼
 
-In this project I took the Dodge game where you have to avoid enemies and not let them touch you , 
-and added a twist to it with my favorite childhood series: "Pokemon" 💨.
+In this project I took the Dodge game 💨 where you have to avoid enemies and not let them touch you , 
+and added a twist to it with my favorite childhood series: "Pokemon".
 
 ![WhatsApp Image 2022-09-08 at 11 03 17](https://user-images.githubusercontent.com/108794115/189842280-6f4c0416-75ba-497f-b450-ed407fc488d0.jpeg)
 
